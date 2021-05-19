@@ -1,0 +1,329 @@
+
+[
+    {
+        "dataProduct":
+        [
+            {      
+                "id" : 1,
+                "cat": "mates",
+                "name" : "Mate 1",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MATE DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {   
+                "id" : 2,
+                "cat": "mates",
+                "name" : "Mate 2",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 1995,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MATE DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {   
+                "id" : 3,
+                "cat": "mates",
+                "name" : "Mate 3",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 2999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MATE DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {   
+                "id" : 4,
+                "cat": "mates",
+                "name" : "Mate 4",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 3999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MATE DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {   
+                "id" : 5,
+                "cat": "mates",
+                "name" : "Mate 5",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 2499,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MATE DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {   
+                "id" : 6,
+                "cat": "termos",
+                "name": "termo 1",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 4999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TERMO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {   
+                "id" : 7,
+                "cat": "termos",
+                "name": "termo 2",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 4999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TERMO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id" : 8,
+                "cat": "termos",
+                "name": "termo 3",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 4999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TERMO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id" : 9,
+                "cat": "termos",
+                "name": "termo 4",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 4999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TERMO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id" : 10,
+                "cat": "termos",
+                "name": "termo 5",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 4999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TERMO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 11,
+                "cat": "kitsMateros",
+                "name": "Equipo Matero 1",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 8999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR KITMATERO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 12,
+                "cat": "kitsMateros",
+                "name": "Equipo Matero 2",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 8999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR KITMATERO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 13,
+                "cat": "kitsMateros",
+                "name": "Equipo Matero 3",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 8999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR KITMATERO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 14,
+                "cat": "kitsMateros",
+                "name": "Equipo Matero 4",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 8999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR KITMATERO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 15,
+                "cat": "mochilas",
+                "name": "Mochila 1",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 7999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 16,
+                "cat": "mochilas",
+                "name": "Mochila 2",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 7999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 17,
+                "cat": "mochilas",
+                "name": "Mochila 3",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 7999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 18,
+                "cat": "mochilas",
+                "name": "Mochila 4",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 7999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 19,
+                "cat": "mochilas",
+                "name": "Mochila 5",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 7999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA"
+            },
+            {
+                "id": 20,
+                "cat": "mochilas",
+                "name": "Mochila 6",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 7999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 21,
+                "cat": "mochilas",
+                "name": "Mochila 7",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 7999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 22,
+                "cat": "mochilas",
+                "name": "Mochila 8",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 7999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 23,
+                "cat": "todosLosProductos",
+                "name" : "Mate 4",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 4999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TODOPRODUCTO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 24,
+                "cat": "todosLosProductos",
+                "name": "mate 5",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 5499,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TODOPRODUCTO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 25,
+                "cat": "todosLosProductos",
+                "name" : "Mate 7",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 3999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TODOPRODUCTO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 26,
+                "cat": "todosLosProductos",
+                "name" : "Mate 8",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 6999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TODOPRODUCTO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 27,
+                "cat": "todosLosProductos",
+                "name" : "Mate 9",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 1999,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TODOPRODUCTO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 28,
+                "cat": "todosLosProductos",
+                "name" : "Mate 10",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 2499,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TODOPRODUCTO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id": 29,
+                "cat": "todosLosProductos",
+                "name" : "Mate 11",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 899,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TODOPRODUCTO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {   
+                "id" : 30,
+                "cat": "todosLosProductos",
+                "name" : "Mate 12",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 799,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TODOPRODUCTO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
+            },
+            {
+                "id" : 31,
+                "cat": "todosLosProductos",
+                "name" : "Mate 13",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 699,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TODOPRODUCTO DEL UNIVERSO UNIVERSAL UNIVERSALISTA LALLALALALAAAAAAAAAAAAAAAAAAA"
+            },
+            {
+                "id" : 32,
+                "cat": "todosLosProductos",
+                "name" : "Mate 14",
+                "img" : "img/EquipoMateroNegroT.png",
+                "price" : 1299,
+                "cantidad": 1,
+                "descripcion": "verde",
+                "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TODOPRODUCTO DEL UNIVERSO UNIVERSAL UNIVERSALISTA LALLALALAL"
+            }
+
+        ]
+    }
+]
