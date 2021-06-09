@@ -31,7 +31,7 @@
                 "name" : "Sieger Puppy",
                 "img" : "img/producto_18.png",
                 "alt" : "Sieger Puppy",
-                "price" : 2999,
+                "price" : 5699,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "Esta es la descripcion del producto en particular la cual se genera mediante el uso del DOM. "
@@ -42,7 +42,7 @@
                 "name" : "Sieger adulto",
                 "img" : "img/producto_18.png",
                 "alt" : "Sieger adulto",
-                "price" : 3999,
+                "price" : 5399,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "Esta es la descripcion del producto en particular la cual se genera mediante el uso del DOM. "
@@ -53,7 +53,7 @@
                 "name" : "Royal adulto",
                 "img" : "img/producto_14.png",
                 "alt" : "Royal adulto",
-                "price" : 2499,
+                "price" : 5960,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "Esta es la descripcion del producto en particular la cual se genera mediante el uso del DOM. "
@@ -64,7 +64,7 @@
                 "name" : "Royal mini",
                 "img" : "img/producto_15.png",
                 "alt" : "Royal mini",
-                "price" : 2499,
+                "price" : 4599,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "Esta es la descripcion del producto en particular la cual se genera mediante el uso del DOM. "
@@ -75,7 +75,7 @@
                 "name" : "Royal Puppy",
                 "img" : "img/producto_16.png",
                 "alt" : "Royal Puppy",
-                "price" : 2499,
+                "price" : 5200,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "Esta es la descripcion del producto en particular la cual se genera mediante el uso del DOM. "
@@ -86,7 +86,7 @@
                 "name" : "Vitalcan Puppy",
                 "img" : "img/producto_20.png",
                 "alt" : "Vitalcan Puppy",
-                "price" : 2499,
+                "price" : 3999,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "Esta es la descripcion del producto en particular la cual se genera mediante el uso del DOM. "
@@ -97,7 +97,7 @@
                 "name": "Purina Adulto",
                 "img" : "img/producto_31.png",
                 "alt" : "Purina Adulto",
-                "price" : 4999,
+                "price" : 4880,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TERMO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -108,7 +108,7 @@
                 "name": "Purina Puppy",
                 "img" : "img/producto_32.png",
                 "alt" : "Purina Puppy",
-                "price" : 4999,
+                "price" : 4895,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TERMO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -119,7 +119,7 @@
                 "name": "Purina Urinary",
                 "img" : "img/producto_33.png",
                 "alt" : "Purina Urinary",
-                "price" : 4999,
+                "price" : 4990,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TERMO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -130,7 +130,7 @@
                 "name": "Whiskas puppy",
                 "img" : "img/producto_36.png",
                 "alt" : "Whiskas puppy",
-                "price" : 4999,
+                "price" : 3200,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TERMO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -141,7 +141,7 @@
                 "name": "Purina Adulto",
                 "img" : "img/producto_24.png",
                 "alt" : "Purina Adulto",
-                "price" : 4999,
+                "price" : 2500,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TERMO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -152,7 +152,7 @@
                 "name": "Purina Puppy",
                 "img" : "img/producto_25.png",
                 "alt" : "Purina Puppy",
-                "price" : 4999,
+                "price" : 3490,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TERMO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -163,7 +163,7 @@
                 "name": "Purina Adulto",
                 "img" : "img/producto_28.png",
                 "alt" : "Purina Adulto",
-                "price" : 4999,
+                "price" : 3999,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR TERMO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -185,7 +185,7 @@
                 "name": "Purina Adulto",
                 "img" : "img/producto_10.png",
                 "alt" : "Purina Adulto",
-                "price" : 8999,
+                "price" : 5999,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR KITMATERO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -196,7 +196,7 @@
                 "name": "Purina Puppy",
                 "img" : "img/producto_11.png",
                 "alt" : "Purina Puppy",
-                "price" : 8999,
+                "price" : 6259,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR KITMATERO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -207,7 +207,7 @@
                 "name": "Sieger Puppy",
                 "img" : "img/producto_17.png",
                 "alt" : "Sieger Puppy",
-                "price" : 8999,
+                "price" : 5699,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR KITMATERO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -218,7 +218,7 @@
                 "name": "Sieger Adulto",
                 "img" : "img/producto_18.png",
                 "alt" : "Sieger Adulto",
-                "price" : 8999,
+                "price" : 5990,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR KITMATERO DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -229,7 +229,7 @@
                 "name": "Purina Puppy",
                 "img" : "img/producto_31.png",
                 "alt" : "Purina Puppy",
-                "price" : 7999,
+                "price" : 5990,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -240,7 +240,7 @@
                 "name": "Purina Adulto",
                 "img" : "img/producto_32.png",
                 "alt" : "Purina Adulto",
-                "price" : 7999,
+                "price" : 4999,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -251,7 +251,7 @@
                 "name": "Purina Urinary",
                 "img" : "img/producto_33.png",
                 "alt" : "Purina Urinary",
-                "price" : 7999,
+                "price" : 1499,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -262,7 +262,7 @@
                 "name": "Siegger Kitten",
                 "img" : "img/producto_35.png",
                 "alt" : "Siegger Kitten",
-                "price" : 7999,
+                "price" : 6799,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -273,7 +273,7 @@
                 "name": "Deleita Puppy",
                 "img" : "img/producto_1.png",
                 "alt" : "Deleita Puppy",
-                "price" : 7999,
+                "price" : 2399,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA"
@@ -284,7 +284,7 @@
                 "name": "Purina Puppy",
                 "img" : "img/producto_4.png",
                 "alt" : "Purina Puppy",
-                "price" : 7999,
+                "price" : 2480,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -295,7 +295,7 @@
                 "name": "Estampa Puppy",
                 "img" : "img/producto_5.png",
                 "alt" : "Estampa Puppy",
-                "price" : 7999,
+                "price" : 2540,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -306,7 +306,7 @@
                 "name": "Estampa Max",
                 "img" : "img/producto_6.png",
                 "alt" : "Estampa Max",
-                "price" : 7999,
+                "price" : 2250,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -317,7 +317,7 @@
                 "name": "Deleita Adulto",
                 "img" : "img/producto_2.png",
                 "alt" : "Deleita Adulto",
-                "price" : 7999,
+                "price" : 3470,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -328,7 +328,7 @@
                 "name": "Deileita Kitten",
                 "img" : "img/producto_26.png",
                 "alt" : "Deileita Kitten",
-                "price" : 7999,
+                "price" : 3190,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -339,7 +339,7 @@
                 "name": "Vitalcan Puppy",
                 "img" : "img/producto_22.png",
                 "alt" : "Vitalcan Puppy",
-                "price" : 7999,
+                "price" : 3199,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
@@ -350,7 +350,7 @@
                 "name": "Deleita Max",
                 "img" : "img/producto_27.png",
                 "alt" : "Deleita Max",
-                "price" : 7999,
+                "price" : 2900,
                 "cantidad": 1,
                 "descripcion": "Alimento",
                 "longDesc": "ESTA SERIA LA DESCRIPCION DEL MEJOR MOCHILA DEL UNIVERSO UNIVERSAL UNIVERSALISTA "
